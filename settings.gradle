@@ -1,4 +1,5 @@
 rootProject.name = 'hexhex'
 include 'application'
 include 'persistence'
+include 'web'
 
